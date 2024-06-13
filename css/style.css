@@ -178,12 +178,13 @@ button:active,
 .page-header {
   display: flex;
   width: 100%;
-  padding: 20px;
+  padding: 10px;
   background-color: #ffffff;
 }
 
 .page-header__item {
   flex: 0 1 200px;
+  position: fixed
 }
 
 .page-header__item:last-child {
